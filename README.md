@@ -3,8 +3,7 @@ automated network scanning and parsing
 
 
 Dependencies:
-python3
-python-nmap module
+python3, python-nmap module
 
 How to run:
 1) Copy ezScan.py to a directory
