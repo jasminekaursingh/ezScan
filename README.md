@@ -1,5 +1,6 @@
 # ezScan
-automated network scanning and parsing
+**IN PROGRESS*
+automated network scanning and parsing that I began working on in July 2022 during my red-team internship
 
 
 Dependencies:
